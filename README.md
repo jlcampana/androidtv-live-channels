@@ -10,6 +10,6 @@ Please note that the url for file [m3u/tv.m3u](m3u/tv.m3u) is:
 
 - [https://raw.githubusercontent.com/jlcampana/androidtv-live-channels/master/m3u/tv.m3u](https://raw.githubusercontent.com/jlcampana/androidtv-live-channels/master/m3u/tv.m3u)
 
-## Where those channels come from?
+## Where do those channels come from?
 
 - [http://altova85.es/listasiptv/](http://altova85.es/listasiptv/)
