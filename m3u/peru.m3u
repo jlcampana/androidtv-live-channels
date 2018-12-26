@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:0,PANAMERICANA TV
+https://stream-02.nyc.dailymotion.com/dm/3/x18w5up/live-2.m3u8
+#EXTINF:0,BH TV
+https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/chunklist_w848019846.m3u8
+#EXTINF:0,Central TV
+https://5949aa132c8fb.streamlock.net:554/iptvcentraltv/livecentraltvtv/chunklist_w1203145811.m3u8
+#EXTINF:0,CTC TV Cusco
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist_w2054490375.m3u8
+#EXTINF:0,Digital TV 1
+http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Digital TV 2
+http://uvodscp-lh.akamaihd.net/i/ped002rtmp_1@460476/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Radio San Borja 91.1 FM Lima
+https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/chunklist_w1140558397.m3u8
+#EXTINF:0,TV Peru
+http://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:0,TV Peru 7.3
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:0,CULTURA 24 TV
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w2048970609_b564000_sles.m3u8
+#EXTINF:0,IPE TV
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:0,ANTARES TV
+http://173.192.105.252:1935/iptvantares/liveantarestv/chunklist_w40049262.m3u8
