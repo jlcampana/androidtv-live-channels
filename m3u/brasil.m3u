@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:0, BRAZIL:Web TV Minas
+http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
+#EXTINF:0, BRAZIL:TVE Rio Grande do Sul (Opt-1)
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:0, BRAZIL:TVE Bahia
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:0, BRAZIL:TV Rio Preto
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
+#EXTINF:0, BRAZIL:TV O Povo
+http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
+#EXTINF:0, BRAZIL:TV Geral
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
+#EXTINF:0, BRAZIL:TV Faap
+http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
+#EXTINF:0, BRAZIL:TV Diario do Sertao
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:0, BRAZIL:TV Diario
+http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8
+#EXTINF:0, BRAZIL:TV Cultura
+http://177.73.84.49/hls/live/live.m3u8
+#EXTINF:0, BRAZIL:TV Brasil Animada
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:0, BRAZIL:TV Assembleia SP
+http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
+#EXTINF:0, BRAZIL:Rede TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
+#EXTINF:0, BRAZIL:Rede Meio Norte
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+#EXTINF:0, BRAZIL:Rede Familia
+http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8
+#EXTINF:0, BRAZIL:Rede Brasil [Opt-2]
+https://59f1cbe63db89.streamlock.net:1443/rbtv/rbtv/chunklist_w1757672591.m3u8
+#EXTINF:0, BRAZIL:Rede Brasil [Opt-1]
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+#EXTINF:0, BRAZIL:Rede Atividade
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+#EXTINF:0, BRAZIL:RecordTV Mozambique
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
+#EXTINF:0, BRAZIL: RBC Salvador
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+#EXTINF:0, BRAZIL:G2P TV
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+#EXTINF:0, BRAZIL:Classique TV
+http://45.43.208.2:1935/classique/classique/live.m3u8
+#EXTINF:0, BRASIL TV Gideoes
+http://streaming02.zas.media:1935/gideoes/programacao/live.m3u8?ChannelsON
+#EXTINF:0, BRASIL TV Universal
+http://api.new.livestream.com/accounts/4486152/events/2780306/live.m3u8?ChannelsON
+#EXTINF:0, BRASIL IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?ChannelsON?
+#EXTINF:0, BRASIL TV Miss�o
+http://wse7.player.tv.br:1935/tvmissao/mp4:tvmissao/chunklist_w2064616456.m3u8?ChannelsON
+#EXTINF:0, BRASIL TV Verdade
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8?ChannelsON
+#EXTINF:0, BRASIL TV Novo Tempo
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w86202803_b2128000_slpor.m3u8?ChannelsON
+#EXTINF:0, BRASIL TV Evangelizar
+http://tvevangelizar20.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8?ChannelsON
+#EXTINF:0, BRASIL Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?ChannelsON
+#EXTINF:0, BRASIL Rede S�culo 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?ChannelsON
+#EXTINF:0, BRASIL Canal Rural
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8?ChannelsON
+#EXTINF:0,  BRASIL TV 1001 Noites
+http://streaming63.sitehosting.com.br:1935/abdalla/_definst_/abdalla/chunklist.m3u8?ChannelsON
+#EXTINF:0, BRASIL CATVE
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?ChannelsON
+#EXTINF:0, BRASIL TV Cultura MG
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?ChannelsON
+#EXTINF:0, BRASIL TV Educativa
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?ChannelsON
+#EXTINF:0, BRASIL TVE BA
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?ChannelsON
+#EXTINF:0,BRASIL TVE
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:0, BRASIL Web TV Minas
+http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8?ChannelsON
+#EXTINF:0, BRASIL Amazon Sat
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8?ChannelsON
+#EXTINF:0, BRASIL TV Diario
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8?ChannelsON
+#EXTINF:0, BRASIL Rede Familia
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8?ChannelsON
+#EXTINF:0,  Rede Brasil
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8?ChannelsON
+#EXTINF:0, BRASIL Aparecida
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?ChannelsON
+#EXTINF:0, BRASIL TV Escola
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8?ChannelsON
+#EXTINF:0, BRASIL RedeTV! RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8?ChannelsON
+#EXTINF:0, BRASIL Band SP
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8?ChannelsON
+#EXTINF:0, BRASIL Record Agua Boa
+http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8??ChannelsON
+#EXTINF:0, BRASIL SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8?ChannelsON
+#EXTINF:0, BRASIL SBT Caruaru
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?ChannelsON
+#EXTINF:0, BRASIL SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?ChannelsON
