@@ -1,49 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LA 1  FHD" tvg-logo="" group-title="España",ES: LA 1  FHD
+#EXTINF:-1 tvg-id="" tvg-name="LA 1  FHD" tvg-logo="" group-title="España",LA 1  FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1247
-#EXTINF:-1 tvg-id="" tvg-name="LA 2" tvg-logo="" group-title="España",ES: LA 2
+#EXTINF:-1 tvg-id="" tvg-name="LA 2" tvg-logo="" group-title="España",LA 2
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1246
-#EXTINF:-1 tvg-id="" tvg-name="Antena 3 FHD" tvg-logo="" group-title="España",ES: Antena 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3 FHD" tvg-logo="" group-title="España",Antena 3 FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1236
-#EXTINF:-1 tvg-id="" tvg-name="TeleMadrid" tvg-logo="" group-title="España",ES: TeleMadrid
+#EXTINF:-1 tvg-id="" tvg-name="TeleMadrid" tvg-logo="" group-title="España",TeleMadrid
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1251
-#EXTINF:-1 tvg-id="" tvg-name="Intereconomia" tvg-logo="" group-title="España",ES: intereconomia
+#EXTINF:-1 tvg-id="" tvg-name="Intereconomia" tvg-logo="" group-title="España",intereconomia
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1209
-#EXTINF:-1 tvg-id="" tvg-name="Canal Cocina" tvg-logo="" group-title="España",ES: Canal Cocina
+#EXTINF:-1 tvg-id="" tvg-name="Canal Cocina" tvg-logo="" group-title="España",Canal Cocina
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1180
-#EXTINF:-1 tvg-id="" tvg-name="ES: Cosmo TV FHD" tvg-logo="" group-title="España",ES: Cosmo TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="Cosmo TV FHD" tvg-logo="" group-title="España",Cosmo TV FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1150
-#EXTINF:-1 tvg-id="" tvg-name="Andalucia TV" tvg-logo="" group-title="España",ES: Andalucia TV
+#EXTINF:-1 tvg-id="" tvg-name="Andalucia TV" tvg-logo="" group-title="España",Andalucia TV
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1256
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sur" tvg-logo="" group-title="España",ES: Canal Sur
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sur" tvg-logo="" group-title="España",Canal Sur
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1265
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sur Cocina" tvg-logo="" group-title="España",ES: Canal Sur Cocina
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sur Cocina" tvg-logo="" group-title="España",Canal Sur Cocina
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1264
-#EXTINF:-1 tvg-id="" tvg-name="Castilla La Mancha Media" tvg-logo="" group-title="España",ES: Castilla La Mancha Media
+#EXTINF:-1 tvg-id="" tvg-name="Castilla La Mancha Media" tvg-logo="" group-title="España",Castilla La Mancha Media
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1258
-#EXTINF:-1 tvg-id="" tvg-name="Teledeporte FHD" tvg-logo="" group-title="España",ES: Teledeporte FHD
+#EXTINF:-1 tvg-id="" tvg-name="Teledeporte FHD" tvg-logo="" group-title="España",Teledeporte FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1230
-#EXTINF:-1 tvg-id="" tvg-name="ES: Neox HD" tvg-logo="" group-title="Series",ES: Neox HD
+#EXTINF:-1 tvg-id="" tvg-name="Neox HD" tvg-logo="" group-title="Series",Neox HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1213
-#EXTINF:-1 tvg-id="" tvg-name="ES: A3series HD" tvg-logo="" group-title="Series",ES: A3series HD
+#EXTINF:-1 tvg-id="" tvg-name="A3series HD" tvg-logo="" group-title="Series",A3series HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1221
-#EXTINF:-1 tvg-id="" tvg-name="ES: SyFy FHD" tvg-logo="" group-title="Series",ES: SyFy FHD
+#EXTINF:-1 tvg-id="" tvg-name="SyFy FHD" tvg-logo="" group-title="Series",SyFy FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1130
-#EXTINF:-1 tvg-id="" tvg-name="ES: TNT HD" tvg-logo="" group-title="Series",ES: TNT HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="Series",TNT HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1132
-#EXTINF:-1 tvg-id="ES: Movistar  Seriesmania HD" tvg-name="ES: Movistar Seriesmanía HD" tvg-logo="" group-title="Series",ES: Movistar Seriesmanía HD
+#EXTINF:-1 tvg-id="Movistar  Seriesmania HD" tvg-name="Movistar Seriesmanía HD" tvg-logo="" group-title="Series",Movistar Seriesmanía HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1157
-#EXTINF:-1 tvg-id="" tvg-name="ES: Fox HD" tvg-logo="" group-title="Series",ES: Fox HD
+#EXTINF:-1 tvg-id="" tvg-name="Fox HD" tvg-logo="" group-title="Series",Fox HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1144
-#EXTINF:-1 tvg-id="" tvg-name="ES: Calle 13" tvg-logo="" group-title="Series",ES: Calle 13
+#EXTINF:-1 tvg-id="" tvg-name="Calle 13" tvg-logo="" group-title="Series",Calle 13
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1151
-#EXTINF:-1 tvg-id="" tvg-name="ES: #0 FHD" tvg-logo="" group-title="Series",ES: #0 FHD
+#EXTINF:-1 tvg-id="" tvg-name="#0 FHD" tvg-logo="" group-title="Series",#0 FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1155
-#EXTINF:-1 tvg-id="" tvg-name="ES: AMC FHD" tvg-logo="" group-title="Series",ES: AMC FHD
+#EXTINF:-1 tvg-id="" tvg-name="AMC FHD" tvg-logo="" group-title="Series",AMC FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1147
-#EXTINF:-1 tvg-id="" tvg-name="ES: AXN FHD" tvg-logo="" group-title="Series",ES: AXN FHD
+#EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="" group-title="Series",AXN FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1139
-#EXTINF:-1 tvg-id="" tvg-name="ES: AXN White FHD" tvg-logo="" group-title="Series",ES: AXN White FHD
+#EXTINF:-1 tvg-id="" tvg-name="AXN White FHD" tvg-logo="" group-title="Series",AXN White FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1136
 #EXTINF:-1 tvg-id="A3S MX FHD" tvg-name="A3S MX FHD" tvg-logo="https://ioiptv.com/logos/A3S.png" group-title="Series",A3S MX FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/369
@@ -69,17 +69,17 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/373
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/372
 #EXTINF:-1 tvg-id="(FB) UNIVISION HD" tvg-name="(FB) UNIVISION HD*" tvg-logo="https://ioiptv.com/logos/UNIVISION.png" group-title="latino",(FB) UNIVISION HD*
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2667
-#EXTINF:-1 tvg-id="" tvg-name="USA VIP: telemundo-39." tvg-logo="" group-title="latino",USA VIP: telemundo-39.
+#EXTINF:-1 tvg-id="" tvg-name="telemundo-39." tvg-logo="" group-title="latino",telemundo-39.
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2730
-#EXTINF:-1 tvg-id="" tvg-name="USA VIP: telemundo-52." tvg-logo="" group-title="latino",USA VIP: telemundo-52.
+#EXTINF:-1 tvg-id="" tvg-name="telemundo-52." tvg-logo="" group-title="latino",telemundo-52.
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2729
-#EXTINF:-1 tvg-id="" tvg-name="USA VIP: telemundo-chicago." tvg-logo="" group-title="latino",USA VIP: telemundo-chicago.
+#EXTINF:-1 tvg-id="" tvg-name="telemundo-chicago." tvg-logo="" group-title="latino",telemundo-chicago.
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2728
-#EXTINF:-1 tvg-id="" tvg-name="USA VIP: TELEMUNDO-MIAMI." tvg-logo="" group-title="latino",USA VIP: TELEMUNDO-MIAMI.
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO-MIAMI." tvg-logo="" group-title="latino",TELEMUNDO-MIAMI.
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2727
-#EXTINF:-1 tvg-id="" tvg-name="USA VIP: telemundo-phoenix." tvg-logo="" group-title="latino",USA VIP: telemundo-phoenix.
+#EXTINF:-1 tvg-id="" tvg-name="telemundo-phoenix." tvg-logo="" group-title="latino",telemundo-phoenix.
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2726
-#EXTINF:-1 tvg-id="" tvg-name="USA VIP: UNIVERSO." tvg-logo="" group-title="latino",USA VIP: UNIVERSO.
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSO." tvg-logo="" group-title="latino",UNIVERSO.
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2716
 #EXTINF:-1 tvg-id="" tvg-name="UNIVISION USA mx FHD" tvg-logo="https://ioiptv.com/logos/UNIVISION.png" group-title="latino",UNIVISION USA mx FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/267
@@ -117,21 +117,21 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/345
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/655
 #EXTINF:-1 tvg-id="" tvg-name="Canal Claro HD *" tvg-logo="http://s3-us-west-2.amazonaws.com/puntoapunto.com.ar/wp-content/uploads/2018/06/29105354/Claro-logo-logotype.png" group-title="latino",Canal Claro HD *
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1952
-#EXTINF:-1 tvg-id="" tvg-name="ES: TCM FHD" tvg-logo="" group-title="Cine",ES: TCM FHD
+#EXTINF:-1 tvg-id="" tvg-name="TCM FHD" tvg-logo="" group-title="Cine",TCM FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1103
-#EXTINF:-1 tvg-id="" tvg-name="ES: Hollywood FHD" tvg-logo="" group-title="Cine",ES: Hollywood FHD
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood FHD" tvg-logo="" group-title="Cine",Hollywood FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1100
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Accion HD" tvg-logo="" group-title="Cine",ES: Movistar  Accion HD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar  Accion HD" tvg-logo="" group-title="Cine",Movistar  Accion HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1120
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Cine N" tvg-logo="" group-title="Cine",ES: Movistar  Cine N
+#EXTINF:-1 tvg-id="" tvg-name="Movistar  Cine N" tvg-logo="" group-title="Cine",Movistar  Cine N
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1105
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Comedia FHD" tvg-logo="" group-title="Cine",ES: Movistar  Comedia FHD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar  Comedia FHD" tvg-logo="" group-title="Cine",Movistar  Comedia FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1118
-#EXTINF:-1 tvg-id="ES: Movistar  Drama FHD" tvg-name="ES: Movistar Drama FHD" tvg-logo="" group-title="Cine",ES: Movistar Drama FHD
+#EXTINF:-1 tvg-id="Movistar  Drama FHD" tvg-name="Movistar Drama FHD" tvg-logo="" group-title="Cine",Movistar Drama FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1112
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Disney" tvg-logo="" group-title="Cine",ES: Movistar  Disney
+#EXTINF:-1 tvg-id="" tvg-name="Movistar  Disney" tvg-logo="" group-title="Cine",Movistar  Disney
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1109
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Estrenos HD" tvg-logo="" group-title="Cine",ES: Movistar  Estrenos HD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar  Estrenos HD" tvg-logo="" group-title="Cine",Movistar  Estrenos HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1114
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="Cine",AMC
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/710
@@ -201,76 +201,76 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/321
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/320
 #EXTINF:-1 tvg-id="Golden Premier HD (L)" tvg-name="Golden Premier HD (L)" tvg-logo="https://ioiptv.com/logos/Golden-Premier-HD.png" group-title="Cine",Golden Premier HD (L)
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/319
-#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 1 HD" tvg-logo="" group-title="Cine",ES: Taquilla 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 1 HD" tvg-logo="" group-title="Cine",Taquilla 1 HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1024
-#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 2 HD" tvg-logo="" group-title="Cine",ES: Taquilla 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 2 HD" tvg-logo="" group-title="Cine",Taquilla 2 HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1023
-#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 3 HD" tvg-logo="" group-title="Cine",ES: Taquilla 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 3 HD" tvg-logo="" group-title="Cine",Taquilla 3 HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1022
-#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 4 HD" tvg-logo="" group-title="Cine",ES: Taquilla 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 4 HD" tvg-logo="" group-title="Cine",Taquilla 4 HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1021
-#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 5 HD" tvg-logo="" group-title="Cine",ES: Taquilla 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 5 HD" tvg-logo="" group-title="Cine",Taquilla 5 HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1020
-#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 6 HD" tvg-logo="" group-title="Cine",ES: Taquilla 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 6 HD" tvg-logo="" group-title="Cine",Taquilla 6 HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1019
-#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 7 HD" tvg-logo="" group-title="Cine",ES: Taquilla 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 7 HD" tvg-logo="" group-title="Cine",Taquilla 7 HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1018
-#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 8 HD" tvg-logo="" group-title="Cine",ES: Taquilla 8 HD
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 8 HD" tvg-logo="" group-title="Cine",Taquilla 8 HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1017
-#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 9 HD" tvg-logo="" group-title="Cine",ES: Taquilla 9 HD
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 9 HD" tvg-logo="" group-title="Cine",Taquilla 9 HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1016
-#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 10 HD" tvg-logo="" group-title="Cine",ES: Taquilla 10 HD
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 10 HD" tvg-logo="" group-title="Cine",Taquilla 10 HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1015
-#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 11 HD" tvg-logo="" group-title="Cine",ES: Taquilla 11 HD
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 11 HD" tvg-logo="" group-title="Cine",Taquilla 11 HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1014
-#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 12 HD" tvg-logo="" group-title="Cine",ES: Taquilla 12 HD
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 12 HD" tvg-logo="" group-title="Cine",Taquilla 12 HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1013
-#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 13 HD" tvg-logo="" group-title="Cine",ES: Taquilla 13 HD
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 13 HD" tvg-logo="" group-title="Cine",Taquilla 13 HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1012
 #EXTINF:-1 tvg-id="" tvg-name="Paramount  HD *" tvg-logo="https://ioiptv.com/logos/Paramount.png" group-title="Cine",Paramount  HD *
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1844
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2823
-#EXTINF:-1 tvg-id="" tvg-name="USA VIP: DISCOVERYFAMSPA." tvg-logo="" group-title="● USA",USA VIP: DISCOVERYFAMSPA.
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERYFAMSPA." tvg-logo="" group-title="● USA",DISCOVERYFAMSPA.
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2820
-#EXTINF:-1 tvg-id="" tvg-name="USA VIP: DISCOVERYSPA." tvg-logo="" group-title="● USA",USA VIP: DISCOVERYSPA.
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERYSPA." tvg-logo="" group-title="● USA",DISCOVERYSPA.
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2818
-#EXTINF:-1 tvg-id="" tvg-name="ES: Mega FHD" tvg-logo="" group-title="Realidad",ES: Mega FHD
+#EXTINF:-1 tvg-id="" tvg-name="Mega FHD" tvg-logo="" group-title="Realidad",Mega FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1224
-#EXTINF:-1 tvg-id="" tvg-name="ES: Mega HD" tvg-logo="" group-title="Realidad",ES: Mega HD
+#EXTINF:-1 tvg-id="" tvg-name="Mega HD" tvg-logo="" group-title="Realidad",Mega HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1223
-#EXTINF:-1 tvg-id="" tvg-name="ES: Discovery Max" tvg-logo="" group-title="Realidad",ES: Discovery Max
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Max" tvg-logo="" group-title="Realidad",Discovery Max
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1208
-#EXTINF:-1 tvg-id="" tvg-name="ES: Divinity" tvg-logo="" group-title="Realidad",ES: Divinity
+#EXTINF:-1 tvg-id="" tvg-name="Divinity" tvg-logo="" group-title="Realidad",Divinity
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1180
-#EXTINF:-1 tvg-id="" tvg-name="ES: Crime & Investigation" tvg-logo="" group-title="Realidad",ES: Crime & Investigation
+#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation" tvg-logo="" group-title="Realidad",Crime & Investigation
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1184
-#EXTINF:-1 tvg-id="" tvg-name="ES: Decasa" tvg-logo="" group-title="Realidad",ES: Decasa
+#EXTINF:-1 tvg-id="" tvg-name="Decasa" tvg-logo="" group-title="Realidad",Decasa
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1183
-#EXTINF:-1 tvg-id="" tvg-name="ES: Blaze" tvg-logo="" group-title="Realidad",ES: Blaze
+#EXTINF:-1 tvg-id="" tvg-name="Blaze" tvg-logo="" group-title="Realidad",Blaze
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1163
-#EXTINF:-1 tvg-id="" tvg-name="ES: Discovery Channel FHD" tvg-logo="" group-title="Realidad",ES: Discovery Channel FHD
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel FHD" tvg-logo="" group-title="Realidad",Discovery Channel FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1172
-#EXTINF:-1 tvg-id="" tvg-name="ES: Discovery Channel HD" tvg-logo="" group-title="Realidad",ES: Discovery Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="" group-title="Realidad",Discovery Channel HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1171
-#EXTINF:-1 tvg-id="" tvg-name="ES: Discovery Channel SD" tvg-logo="" group-title="Realidad",ES: Discovery Channel SD
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel SD" tvg-logo="" group-title="Realidad",Discovery Channel SD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1170
-#EXTINF:-1 tvg-id="" tvg-name="ES: Historia HD/SD" tvg-logo="" group-title="Realidad",ES: Historia HD/SD
+#EXTINF:-1 tvg-id="" tvg-name="Historia HD/SD" tvg-logo="" group-title="Realidad",Historia HD/SD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1167
-#EXTINF:-1 tvg-id="" tvg-name="ES: Nat Geo Wild FHD" tvg-logo="" group-title="Realidad",ES: Nat Geo Wild FHD
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild FHD" tvg-logo="" group-title="Realidad",Nat Geo Wild FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1175
-#EXTINF:-1 tvg-id="" tvg-name="ES: Nat Geo Wild HD" tvg-logo="" group-title="Realidad",ES: Nat Geo Wild HD
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD" tvg-logo="" group-title="Realidad",Nat Geo Wild HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1174
-#EXTINF:-1 tvg-id="" tvg-name="ES: Nat Geo Wild SD" tvg-logo="" group-title="Realidad",ES: Nat Geo Wild SD
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild SD" tvg-logo="" group-title="Realidad",Nat Geo Wild SD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1173
-#EXTINF:-1 tvg-id="" tvg-name="ES: National Geographic FHD" tvg-logo="" group-title="Realidad",ES: National Geographic FHD
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic FHD" tvg-logo="" group-title="Realidad",National Geographic FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1178
-#EXTINF:-1 tvg-id="" tvg-name="ES: National Geographic HD" tvg-logo="" group-title="Realidad",ES: National Geographic HD
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="" group-title="Realidad",National Geographic HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1177
-#EXTINF:-1 tvg-id="" tvg-name="ES: National Geographic SD" tvg-logo="" group-title="Realidad",ES: National Geographic SD
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic SD" tvg-logo="" group-title="Realidad",National Geographic SD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1176
-#EXTINF:-1 tvg-id="" tvg-name="ES: Odisea HD" tvg-logo="" group-title="Realidad",ES: Odisea HD
+#EXTINF:-1 tvg-id="" tvg-name="Odisea HD" tvg-logo="" group-title="Realidad",Odisea HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1169
-#EXTINF:-1 tvg-id="" tvg-name="ES: Odisea SD" tvg-logo="" group-title="Realidad",ES: Odisea SD
+#EXTINF:-1 tvg-id="" tvg-name="Odisea SD" tvg-logo="" group-title="Realidad",Odisea SD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1168
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="Realidad",Animal Planet
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/726
@@ -374,11 +374,11 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/314
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/313
 #EXTINF:-1 tvg-id="HBO Signature HD dual (L)" tvg-name="HBO Signature HD dual (L)" tvg-logo="https://ioiptv.com/logos/HBO-SIGNATURE-HD.png" group-title="fox/hbo",HBO Signature HD dual (L)
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/312
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Panda" tvg-logo="" group-title="cochi",ES: Canal Panda
+#EXTINF:-1 tvg-id="" tvg-name="Canal Panda" tvg-logo="" group-title="cochi",Canal Panda
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1188
-#EXTINF:-1 tvg-id="" tvg-name="ES: Disney Junior" tvg-logo="" group-title="cochi",ES: Disney Junior
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="" group-title="cochi",Disney Junior
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1189
-#EXTINF:-1 tvg-id="" tvg-name="ES: Nick JR" tvg-logo="" group-title="cochi",ES: Nick JR
+#EXTINF:-1 tvg-id="" tvg-name="Nick JR" tvg-logo="" group-title="cochi",Nick JR
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1194
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="cochi",Boomerang
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/831
