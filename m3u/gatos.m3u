@@ -65,8 +65,6 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/274
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/374
 #EXTINF:-1 tvg-id="UniMas HD" tvg-name="UniMas HD*" tvg-logo="https://ioiptv.com/logos/UniMas.png" group-title="latino",UniMas HD*
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/373
-#EXTINF:-1 tvg-id="UNIVISION DEPORTES HD" tvg-name="UNIVISION DEPORTES HD*" tvg-logo="https://ioiptv.com/logos/UNIVISION-DEPORTES.png" group-title="latino",UNIVISION DEPORTES HD*
-http://io.xtrego.com:8080/macpanda/WDKosjppLg/372
 #EXTINF:-1 tvg-id="UNIVISION HD" tvg-name="UNIVISION HD*" tvg-logo="https://ioiptv.com/logos/UNIVISION.png" group-title="latino",UNIVISION HD*
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2667
 #EXTINF:-1 tvg-id="" tvg-name="telemundo-39." tvg-logo="" group-title="latino",telemundo-39.
@@ -95,7 +93,7 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/278
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/277
 #EXTINF:-1 tvg-id="" tvg-name="Televisa Puebla MX FHD" tvg-logo="https://ioiptv.com/logos/Televisa-Puebla.png" group-title="latino",Televisa Puebla MX FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/276
-#EXTINF:-1 tvg-id="Az Cinema MX FHD" tvg-name="Az Cinema MX FHD" tvg-logo="https://ioiptv.com/logos/Az-Cinema.png" group-title="latino",Az Cinema MX FHD
+#EXTINF:-1 tvg-id="Az Cinema MX FHD" tvg-name="Az Cinema MX FHD" tvg-logo="https://ioiptv.com/logos/Az-Cinema.png" group-title="Cine",Az Cinema MX FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/364
 #EXTINF:-1 tvg-id="Az Clic MX FHD" tvg-name="Az Clic MX FHD" tvg-logo="https://ioiptv.com/logos/Az_clic.png" group-title="latino",Az Clic MX FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/363
