@@ -420,8 +420,6 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/294
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/343
 #EXTINF:-1 tvg-id="Nickelodeon MX FHD" tvg-name="Nickelodeon MX FHD" tvg-logo="https://ioiptv.com/logos/Nickelodeon-HD.png" group-title="cochi",Nickelodeon MX FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/291
-#EXTINF:-1 tvg-id="" tvg-name="==● ▄ ★ ARGENTINA ★ ▄ ●==" tvg-logo="" group-title="",==● ▄ ★ ARGENTINA ★ ▄ ●==
-http://io.xtrego.com:8080/macpanda/WDKosjppLg/891
 #EXTINF:-1 tvg-id="" tvg-name="AR: A24" tvg-logo="" group-title="● ARGENTINA",AR: A24
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/876
 #EXTINF:-1 tvg-id="" tvg-name="AR: America" tvg-logo="" group-title="● ARGENTINA",AR: America
@@ -474,19 +472,19 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/913
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/912
 #EXTINF:-1 tvg-id="" tvg-name="CL: Canal 13 FHD" tvg-logo="" group-title="● CHILE",CL: Canal 13 FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/911
-#EXTINF:-1 tvg-id="" tvg-name="CL: Canal 13" tvg-logo="" group-title="● CHILE",CL: Canal 13
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 (Chile)" tvg-logo="" group-title="latino",CL: Canal 13
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/909
-#EXTINF:-1 tvg-id="" tvg-name="CL: Canal 13 HD op2" tvg-logo="" group-title="● CHILE",CL: Canal 13 HD op2
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 HD op2 (Chile)" tvg-logo="" group-title="latino",CL: Canal 13 HD op2
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2086
-#EXTINF:-1 tvg-id="" tvg-name="CL: Canal 13 HD (L)" tvg-logo="" group-title="● CHILE",CL: Canal 13 HD (L)
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 HD (L) (Chile)" tvg-logo="" group-title="latino",CL: Canal 13 HD (L)
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/910
-#EXTINF:-1 tvg-id="" tvg-name="CL: CHV" tvg-logo="" group-title="● CHILE",CL: CHV
+#EXTINF:-1 tvg-id="" tvg-name="CHileVisión" tvg-logo="" group-title="latino",CL: CHV
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/906
 #EXTINF:-1 tvg-id="" tvg-name="CL: CHV FHD op2" tvg-logo="" group-title="● CHILE",CL: CHV FHD op2
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2088
 #EXTINF:-1 tvg-id="" tvg-name="CL: CHV FHD" tvg-logo="" group-title="● CHILE",CL: CHV FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/908
-#EXTINF:-1 tvg-id="" tvg-name="CL: CHV HD (L)" tvg-logo="" group-title="● CHILE",CL: CHV HD (L)
+#EXTINF:-1 tvg-id="" tvg-name="ChileVisión HD (L)" tvg-logo="" group-title="latino",CL: CHV HD (L)
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/907
 #EXTINF:-1 tvg-id="" tvg-name="CL: El Pinguino HD" tvg-logo="" group-title="● CHILE",CL: El Pinguino HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/905
@@ -494,19 +492,19 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/905
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/904
 #EXTINF:-1 tvg-id="" tvg-name="CL: FMHOT HD" tvg-logo="" group-title="● CHILE",CL: FMHOT HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/903
-#EXTINF:-1 tvg-id="" tvg-name="CL: La red" tvg-logo="" group-title="● CHILE",CL: La red
+#EXTINF:-1 tvg-id="" tvg-name="CL: La red" tvg-logo="" group-title="latino",CL: La red
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/901
-#EXTINF:-1 tvg-id="" tvg-name="CL: La Red HD (L)" tvg-logo="" group-title="● CHILE",CL: La Red HD (L)
+#EXTINF:-1 tvg-id="" tvg-name="CL: La Red HD (L)" tvg-logo="" group-title="latino",CL: La Red HD (L)
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/902
 #EXTINF:-1 tvg-id="" tvg-name="CL: Mega" tvg-logo="" group-title="● CHILE",CL: Mega
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/898
-#EXTINF:-1 tvg-id="" tvg-name="CL: Mega HD" tvg-logo="" group-title="● CHILE",CL: Mega HD
+#EXTINF:-1 tvg-id="" tvg-name="Mega HD" tvg-logo="" group-title="latino",CL: Mega HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/900
 #EXTINF:-1 tvg-id="" tvg-name="CL: Mega FHD op2" tvg-logo="" group-title="● CHILE",CL: Mega FHD op2
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2089
-#EXTINF:-1 tvg-id="" tvg-name="CL: Mega HD (L)" tvg-logo="" group-title="● CHILE",CL: Mega HD (L)
+#EXTINF:-1 tvg-id="" tvg-name="A24" tvg-logo="" group-title="latino",CL: Mega HD (L)
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/899
-#EXTINF:-1 tvg-id="" tvg-name="CL: Rec TV 13" tvg-logo="" group-title="● CHILE",CL: Rec TV 13
+#EXTINF:-1 tvg-id="" tvg-name="Rec TV 13" tvg-logo="" group-title="latino",CL: Rec TV 13
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/897
 #EXTINF:-1 tvg-id="" tvg-name="CL: TELETRAK" tvg-logo="" group-title="● CHILE",CL: TELETRAK
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/896
@@ -516,65 +514,51 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/894
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/895
 #EXTINF:-1 tvg-id="" tvg-name="CL: TVN FHD op2" tvg-logo="" group-title="● CHILE",CL: TVN FHD op2
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2090
-#EXTINF:-1 tvg-id="" tvg-name="CL: UCV" tvg-logo="" group-title="● CHILE",CL: UCV
+#EXTINF:-1 tvg-id="" tvg-name="UCV" tvg-logo="" group-title="latino",CL: UCV
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/893
 #EXTINF:-1 tvg-id="" tvg-name="CL: Canal Costa tv" tvg-logo="" group-title="● CHILE",CL: Canal Costa tv
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/5649
-#EXTINF:-1 tvg-id="" tvg-name="CO: Canal Antiestres" tvg-logo="" group-title="● COLOMBIA",CO: Canal Antiestres
+#EXTINF:-1 tvg-id="" tvg-name="Canal Antiestres" tvg-logo="" group-title="● COLOMBIA",Canal Antiestres
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/929
-#EXTINF:-1 tvg-id="" tvg-name="CO: Canal Uno" tvg-logo="" group-title="● COLOMBIA",CO: Canal Uno
+#EXTINF:-1 tvg-id="" tvg-name="Canal Uno" tvg-logo="" group-title="latino",Canal Uno
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2651
-#EXTINF:-1 tvg-id="" tvg-name="CO: Canal U" tvg-logo="" group-title="● COLOMBIA",CO: Canal U
+#EXTINF:-1 tvg-id="" tvg-name="Canal U" tvg-logo="" group-title="latino",Canal U
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/928
-#EXTINF:-1 tvg-id="" tvg-name="Caracol HD *" tvg-logo="https://ioiptv.com/logos/CO-Caracol.png" group-title="● COLOMBIA",Caracol HD *
+#EXTINF:-1 tvg-id="" tvg-name="Caracol HD" tvg-logo="https://ioiptv.com/logos/CO-Caracol.png" group-title="latino",Caracol HD *
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1950
-#EXTINF:-1 tvg-id="" tvg-name="Caracol HQ *" tvg-logo="https://ioiptv.com/logos/CO-Caracol.png" group-title="● COLOMBIA",Caracol HQ *
+#EXTINF:-1 tvg-id="" tvg-name="Caracol HQ" tvg-logo="https://ioiptv.com/logos/CO-Caracol.png" group-title="latino",Caracol HQ *
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1949
-#EXTINF:-1 tvg-id="" tvg-name="CO: Caracol HD" tvg-logo="" group-title="● COLOMBIA",CO: Caracol HD
-http://io.xtrego.com:8080/macpanda/WDKosjppLg/2145
-#EXTINF:-1 tvg-id="" tvg-name="CO: Caracol" tvg-logo="" group-title="● COLOMBIA",CO: Caracol
+#EXTINF:-1 tvg-id="" tvg-name="Caracol" tvg-logo="" group-title="latino",Caracol
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/926
-#EXTINF:-1 tvg-id="" tvg-name="CO: Caracol Inter" tvg-logo="" group-title="● COLOMBIA",CO: Caracol Inter
+#EXTINF:-1 tvg-id="" tvg-name="Caracol Inter" tvg-logo="" group-title="latino",Caracol Inter
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/927
-#EXTINF:-1 tvg-id="" tvg-name="CO: City TV" tvg-logo="" group-title="● COLOMBIA",CO: City TV
+#EXTINF:-1 tvg-id="" tvg-name="City TV" tvg-logo="" group-title="latino",City TV
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/925
-#EXTINF:-1 tvg-id="" tvg-name="CO: Tr3ce" tvg-logo="" group-title="● COLOMBIA",CO: Tr3ce
+#EXTINF:-1 tvg-id="" tvg-name="Tr3ce" tvg-logo="" group-title="latino",Tr3ce
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/924
-#EXTINF:-1 tvg-id="" tvg-name="CO: Cosmo Vision" tvg-logo="" group-title="● COLOMBIA",CO: Cosmo Vision
-http://io.xtrego.com:8080/macpanda/WDKosjppLg/923
-#EXTINF:-1 tvg-id="" tvg-name="CO: RCN HD" tvg-logo="" group-title="● COLOMBIA",CO: RCN HD
+#EXTINF:-1 tvg-id="" tvg-name="RCN HD" tvg-logo="" group-title="latino",RCN HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2091
-#EXTINF:-1 tvg-id="" tvg-name="CO: RCN HD OP2" tvg-logo="" group-title="● COLOMBIA",CO: RCN HD OP2
-http://io.xtrego.com:8080/macpanda/WDKosjppLg/5043
-#EXTINF:-1 tvg-id="" tvg-name="CO: RCN" tvg-logo="" group-title="● COLOMBIA",CO: RCN
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="" group-title="latino",RCN
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/922
-#EXTINF:-1 tvg-id="" tvg-name="CO: RCN Nvls" tvg-logo="" group-title="● COLOMBIA",CO: RCN Nvls
+#EXTINF:-1 tvg-id="" tvg-name="RCN Nvls" tvg-logo="" group-title="latino",RCN Nvls
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/921
-#EXTINF:-1 tvg-id="" tvg-name="CO: Teleantioquia" tvg-logo="" group-title="● COLOMBIA",CO: Teleantioquia
+#EXTINF:-1 tvg-id="" tvg-name="Teleantioquia" tvg-logo="" group-title="latino",Teleantioquia
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/920
-#EXTINF:-1 tvg-id="" tvg-name="CO: Telecafe" tvg-logo="" group-title="● COLOMBIA",CO: Telecafe
+#EXTINF:-1 tvg-id="" tvg-name="Telecafe" tvg-logo="" group-title="latino",Telecafe
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/919
-#EXTINF:-1 tvg-id="" tvg-name="CO: Telecaribe" tvg-logo="" group-title="● COLOMBIA",CO: Telecaribe
+#EXTINF:-1 tvg-id="" tvg-name="Telecaribe" tvg-logo="" group-title="latino",Telecaribe
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/918
-#EXTINF:-1 tvg-id="" tvg-name="CO: TeleMedellin" tvg-logo="" group-title="● COLOMBIA",CO: TeleMedellin
-http://io.xtrego.com:8080/macpanda/WDKosjppLg/917
-#EXTINF:-1 tvg-id="" tvg-name="CO: Telepacifico" tvg-logo="" group-title="● COLOMBIA",CO: Telepacifico
+#EXTINF:-1 tvg-id="" tvg-name="Telepacifico" tvg-logo="" group-title="latino",Telepacifico
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/916
-#EXTINF:-1 tvg-id="" tvg-name="==● ▄ ★ COSTA RICA ★ ▄ ●==" tvg-logo="" group-title="",==● ▄ ★ COSTA RICA ★ ▄ ●==
-http://io.xtrego.com:8080/macpanda/WDKosjppLg/940
-#EXTINF:-1 tvg-id="" tvg-name="CR: 88 Stereo TV" tvg-logo="" group-title="● COSTA RICA",CR: 88 Stereo TV
-http://io.xtrego.com:8080/macpanda/WDKosjppLg/939
 #EXTINF:-1 tvg-id="" tvg-name="CR: Canal 11 latino" tvg-logo="" group-title="● COSTA RICA",CR: Canal 11 latino
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/938
 #EXTINF:-1 tvg-id="" tvg-name="CR: Canal 4 latino" tvg-logo="" group-title="● COSTA RICA",CR: Canal 4 latino
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/937
-#EXTINF:-1 tvg-id="" tvg-name="CR: Canal 6 latino" tvg-logo="" group-title="● COSTA RICA",CR: Canal 6 latino
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6 latino (Costa Rica)" tvg-logo="" group-title="latino",CR: Canal 6 latino
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/936
-#EXTINF:-1 tvg-id="" tvg-name="CR: Colosal TV" tvg-logo="" group-title="● COSTA RICA",CR: Colosal TV
-http://io.xtrego.com:8080/macpanda/WDKosjppLg/935
 #EXTINF:-1 tvg-id="" tvg-name="CR: Tele UNO" tvg-logo="" group-title="● COSTA RICA",CR: Tele UNO
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/934
-#EXTINF:-1 tvg-id="" tvg-name="CR: Teletica canal 7 latino" tvg-logo="" group-title="● COSTA RICA",CR: Teletica canal 7 latino
+#EXTINF:-1 tvg-id="" tvg-name="Teletica canal 7 latino (Costa Rica)" tvg-logo="" group-title="latino",CR: Teletica canal 7 latino
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/933
 #EXTINF:-1 tvg-id="" tvg-name="CR: TicaVisi" tvg-logo="" group-title="● COSTA RICA",CR: TicaVisi
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/932
@@ -590,13 +574,13 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/4115
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/952
 #EXTINF:-1 tvg-id="" tvg-name="EC: Ecuador Tv op2" tvg-logo="" group-title="● ECUADOR",EC: Ecuador Tv op2
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/4114
-#EXTINF:-1 tvg-id="" tvg-name="EC: Ecuavisa Internacional" tvg-logo="" group-title="● ECUADOR",EC: Ecuavisa Internacional
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa Internacional" tvg-logo="" group-title="latino",EC: Ecuavisa Internacional
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/4113
-#EXTINF:-1 tvg-id="" tvg-name="EC: Ecuavisa" tvg-logo="" group-title="● ECUADOR",EC: Ecuavisa
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa" tvg-logo="" group-title="latino",EC: Ecuavisa
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/951
-#EXTINF:-1 tvg-id="" tvg-name="EC: Ecuavisa (L)" tvg-logo="" group-title="● ECUADOR",EC: Ecuavisa (L)
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa (L)" tvg-logo="" group-title="latino",EC: Ecuavisa (L)
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/944
-#EXTINF:-1 tvg-id="" tvg-name="EC: Ecuavisa op2" tvg-logo="" group-title="● ECUADOR",EC: Ecuavisa op2
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa op2" tvg-logo="" group-title="latino",EC: Ecuavisa op2
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2659
 #EXTINF:-1 tvg-id="" tvg-name="EC: GAMA TV" tvg-logo="" group-title="● ECUADOR",EC: GAMA TV
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/950
@@ -608,13 +592,13 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/948
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/943
 #EXTINF:-1 tvg-id="" tvg-name="EC: RTS op2" tvg-logo="" group-title="● ECUADOR",EC: RTS op2
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2660
-#EXTINF:-1 tvg-id="" tvg-name="EC: TC Television" tvg-logo="" group-title="● ECUADOR",EC: TC Television
+#EXTINF:-1 tvg-id="" tvg-name="TC Television" tvg-logo="" group-title="latino",EC: TC Television
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/947
-#EXTINF:-1 tvg-id="" tvg-name="EC: TC Mi Canal HD" tvg-logo="" group-title="● ECUADOR",EC: TC Mi Canal HD
+#EXTINF:-1 tvg-id="" tvg-name="TC Mi Canal HD" tvg-logo="" group-title="latino",EC: TC Mi Canal HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2661
-#EXTINF:-1 tvg-id="" tvg-name="EC: TC Television HD (L)" tvg-logo="" group-title="● ECUADOR",EC: TC Television HD (L)
+#EXTINF:-1 tvg-id="" tvg-name="TC Television HD (L)" tvg-logo="" group-title="latino",EC: TC Television HD (L)
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/941
-#EXTINF:-1 tvg-id="" tvg-name="EC: Teleamazonas" tvg-logo="" group-title="● ECUADOR",EC: Teleamazonas
+#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas" tvg-logo="" group-title="latino",EC: Teleamazonas
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/946
 #EXTINF:-1 tvg-id="" tvg-name="EC: Teleamazonas op2" tvg-logo="" group-title="● ECUADOR",EC: Teleamazonas op2
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/942
@@ -624,71 +608,67 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/945
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/4112
 #EXTINF:-1 tvg-id="ADN40" tvg-name="ADN40" tvg-logo="https://ioiptv.com/logos/ADN-40.png" group-title="● MEXICO",ADN40
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/976
-#EXTINF:-1 tvg-id="AZ Cinema" tvg-name="AZ Cinema" tvg-logo="https://ioiptv.com/logos/Az-Cinema.png" group-title="● MEXICO",AZ Cinema
+#EXTINF:-1 tvg-id="AZ Cinema" tvg-name="AZ Cinema" tvg-logo="https://ioiptv.com/logos/Az-Cinema.png" group-title="Cine",AZ Cinema
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/975
-#EXTINF:-1 tvg-id="AZ Clic" tvg-name="AZ Clic" tvg-logo="https://ioiptv.com/logos/Az_clic.png" group-title="● MEXICO",AZ Clic
+#EXTINF:-1 tvg-id="AZ Clic" tvg-name="AZ Clic" tvg-logo="https://ioiptv.com/logos/Az_clic.png" group-title="latino",AZ Clic
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/974
-#EXTINF:-1 tvg-id="AZ Corazon" tvg-name="AZ Corazon" tvg-logo="https://ioiptv.com/logos/Az_Corazon.png" group-title="● MEXICO",AZ Corazon
+#EXTINF:-1 tvg-id="AZ Corazon" tvg-name="AZ Corazon" tvg-logo="https://ioiptv.com/logos/Az_Corazon.png" group-title="latino",AZ Corazon
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/973
-#EXTINF:-1 tvg-id="Az Mundo" tvg-name="Az Mundo" tvg-logo="https://ioiptv.com/logos/Az_Mundo.png" group-title="● MEXICO",Az Mundo
+#EXTINF:-1 tvg-id="Az Mundo" tvg-name="Az Mundo" tvg-logo="https://ioiptv.com/logos/Az_Mundo.png" group-title="latino",Az Mundo
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/972
-#EXTINF:-1 tvg-id="Azteca 13 MX FHD" tvg-name="Azteca Uno" tvg-logo="https://ioiptv.com/logos/Azteca_Uno-13.png" group-title="● MEXICO",Azteca Uno
+#EXTINF:-1 tvg-id="Azteca 13 MX FHD" tvg-name="Azteca Uno" tvg-logo="https://ioiptv.com/logos/Azteca_Uno-13.png" group-title="latino",Azteca Uno
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/969
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://ioiptv.com/logos/Azteca_7.png" group-title="● MEXICO",Azteca 7
+#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://ioiptv.com/logos/Azteca_7.png" group-title="cochi",Azteca 7
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/971
 #EXTINF:-1 tvg-id="Canal 26 FHD" tvg-name="Canal 26 FHD" tvg-logo="https://ioiptv.com/logos/MX-canal-26.png" group-title="● MEXICO",Canal 26 FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/968
 #EXTINF:-1 tvg-id="" tvg-name="Canal 4 FHD" tvg-logo="https://ioiptv.com/logos/MX-Tv-Cuatro-Canal-4.png" group-title="● MEXICO",Canal 4 FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/967
-#EXTINF:-1 tvg-id="Canal 5 MX FHD" tvg-name="Canal 5" tvg-logo="https://ioiptv.com/logos/Canal-5.png" group-title="● MEXICO",Canal 5
+#EXTINF:-1 tvg-id="Canal 5 MX FHD" tvg-name="Canal 5" tvg-logo="https://ioiptv.com/logos/Canal-5.png" group-title="cochi",Canal 5
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/966
 #EXTINF:-1 tvg-id="" tvg-name="Canal 8 FHD" tvg-logo="https://ioiptv.com/logos/MX-canal-8.png" group-title="● MEXICO",Canal 8 FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/965
 #EXTINF:-1 tvg-id="Canal Once" tvg-name="Canal Once" tvg-logo="https://ioiptv.com/logos/Canal-Once.jpg" group-title="● MEXICO",Canal Once
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/964
-#EXTINF:-1 tvg-id="De Pelicula" tvg-name="De Pelicula" tvg-logo="https://ioiptv.com/logos/DE-Pelicula.png" group-title="● MEXICO",De Pelicula
+#EXTINF:-1 tvg-id="De Pelicula" tvg-name="De Pelicula" tvg-logo="https://ioiptv.com/logos/DE-Pelicula.png" group-title="Cine",De Pelicula
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/963
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="https://ioiptv.com/logos/MX-Distrito-Comedia.png" group-title="● MEXICO",Distrito Comedia
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/962
-#EXTINF:-1 tvg-id="GalaVision" tvg-name="GalaVision" tvg-logo="https://ioiptv.com/logos/MX-GalaVision.png" group-title="● MEXICO",GalaVision
+#EXTINF:-1 tvg-id="GalaVision" tvg-name="GalaVision" tvg-logo="https://ioiptv.com/logos/MX-GalaVision.png" group-title="Latino",GalaVision
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/961
-#EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="https://ioiptv.com/logos/Glitz.png" group-title="● MEXICO",Glitz
+#EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="https://ioiptv.com/logos/Glitz.png" group-title="Latino",Glitz
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/960
-#EXTINF:-1 tvg-id="HOLA TV" tvg-name="Hola TV" tvg-logo="https://ioiptv.com/logos/HolaTv.png" group-title="● MEXICO",Hola TV
+#EXTINF:-1 tvg-id="HOLA TV" tvg-name="Hola TV" tvg-logo="https://ioiptv.com/logos/HolaTv.png" group-title="latino",Hola TV
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/959
-#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas mx" tvg-logo="" group-title="● MEXICO",Las Estrellas mx
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas mx" tvg-logo="" group-title="latino",Las Estrellas mx
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/658
 #EXTINF:-1 tvg-id="Mas Chic" tvg-name="Mas Chic" tvg-logo="https://ioiptv.com/logos/Mas-Chic.png" group-title="● MEXICO",Mas Chic
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/958
 #EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-logo="https://ioiptv.com/logos/Milenio-TV.png" group-title="● MEXICO",Milenio TV
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/957
-#EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" tvg-logo="https://ioiptv.com/logos/Unicable.png" group-title="● MEXICO",Unicable
+#EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" tvg-logo="https://ioiptv.com/logos/Unicable.png" group-title="Latino",Unicable
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/955
-#EXTINF:-1 tvg-id="" tvg-name="Ultra Banda" tvg-logo="" group-title="● MEXICO",Ultra Banda
-http://io.xtrego.com:8080/macpanda/WDKosjppLg/4111
-#EXTINF:-1 tvg-id="" tvg-name="Ultra Cine" tvg-logo="" group-title="● MEXICO",Ultra Cine
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Cine" tvg-logo="" group-title="Cine",Ultra Cine
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/4110
-#EXTINF:-1 tvg-id="" tvg-name="Ultra Clasico" tvg-logo="" group-title="● MEXICO",Ultra Clasico
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Clasico" tvg-logo="" group-title="Cine",Ultra Clasico
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/4109
-#EXTINF:-1 tvg-id="" tvg-name="Ultra Docu" tvg-logo="" group-title="● MEXICO",Ultra Docu
-http://io.xtrego.com:8080/macpanda/WDKosjppLg/4108
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Familia" tvg-logo="" group-title="● MEXICO",Ultra Familia
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/4107
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Fiesta" tvg-logo="" group-title="● MEXICO",Ultra Fiesta
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/4106
-#EXTINF:-1 tvg-id="" tvg-name="Ultra Film" tvg-logo="" group-title="● MEXICO",Ultra Film
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Film" tvg-logo="" group-title="Cine",Ultra Film
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/4105
-#EXTINF:-1 tvg-id="" tvg-name="Ultra Kidz" tvg-logo="" group-title="● MEXICO",Ultra Kidz
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Kidz" tvg-logo="" group-title="cochi",Ultra Kidz
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/4104
-#EXTINF:-1 tvg-id="" tvg-name="Ultra Luna" tvg-logo="" group-title="● MEXICO",Ultra Luna
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Luna" tvg-logo="" group-title="Latino",Ultra Luna
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/4103
-#EXTINF:-1 tvg-id="" tvg-name="Ultra Macho" tvg-logo="" group-title="● MEXICO",Ultra Macho
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Macho" tvg-logo="" group-title="Cine",Ultra Macho
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/4102
-#EXTINF:-1 tvg-id="" tvg-name="Ultra Mex" tvg-logo="" group-title="● MEXICO",Ultra Mex
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Mex" tvg-logo="" group-title="Cine",Ultra Mex
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/4101
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Tainment" tvg-logo="" group-title="● MEXICO",Ultra Tainment
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/4100
-#EXTINF:-1 tvg-id="La Tele Paraguay" tvg-name="La Tele Paraguay" tvg-logo="https://ioiptv.com/logos/PY-La-Tele.png" group-title="● PARAGUAY",La Tele Paraguay
+#EXTINF:-1 tvg-id="La Tele Paraguay" tvg-name="La Tele Paraguay" tvg-logo="https://ioiptv.com/logos/PY-La-Tele.png" group-title="cochi",La Tele Paraguay
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/986
 #EXTINF:-1 tvg-id="Paraguay TV" tvg-name="Paraguay TV" tvg-logo="https://ioiptv.com/logos/PY-Paraguay-TV.png" group-title="● PARAGUAY",Paraguay TV
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/985
@@ -698,65 +678,65 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/984
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/983
 #EXTINF:-1 tvg-id="RPC Paraguay" tvg-name="RPC Paraguay" tvg-logo="https://ioiptv.com/logos/PY-RPC.png" group-title="● PARAGUAY",RPC Paraguay
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/982
-#EXTINF:-1 tvg-id="SNT Paraguay" tvg-name="SNT Paraguay" tvg-logo="https://ioiptv.com/logos/PY-SNT.png" group-title="● PARAGUAY",SNT Paraguay
+#EXTINF:-1 tvg-id="SNT Paraguay" tvg-name="SNT Paraguay" tvg-logo="https://ioiptv.com/logos/PY-SNT.png" group-title="latino",SNT Paraguay
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/981
-#EXTINF:-1 tvg-id="Sur TV Paraguay" tvg-name="Sur TV Paraguay" tvg-logo="https://ioiptv.com/logos/PY-Sur-TV.png" group-title="● PARAGUAY",Sur TV Paraguay
+#EXTINF:-1 tvg-id="Sur TV Paraguay" tvg-name="Sur TV Paraguay" tvg-logo="https://ioiptv.com/logos/PY-Sur-TV.png" group-title="latino",Sur TV Paraguay
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/980
-#EXTINF:-1 tvg-id="Telefuturo Paraguay" tvg-name="Telefuturo Paraguay" tvg-logo="https://ioiptv.com/logos/PY-Telefuturo.png" group-title="● PARAGUAY",Telefuturo Paraguay
+#EXTINF:-1 tvg-id="Telefuturo Paraguay" tvg-name="Telefuturo Paraguay" tvg-logo="https://ioiptv.com/logos/PY-Telefuturo.png" group-title="latino",Telefuturo Paraguay
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/979
 #EXTINF:-1 tvg-id="Unicanal Paraguay" tvg-name="Unicanal Paraguay" tvg-logo="https://ioiptv.com/logos/PY-Unicanal.png" group-title="● PARAGUAY",Unicanal Paraguay
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/978
-#EXTINF:-1 tvg-id="" tvg-name="PE: America HD" tvg-logo="" group-title="● PERU",PE: America HD
+#EXTINF:-1 tvg-id="" tvg-name="America HD" tvg-logo="" group-title="latino",America HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2094
-#EXTINF:-1 tvg-id="PE: America TV" tvg-name="PE: America TV" tvg-logo="https://ioiptv.com/logos/PE-America-TV1.png" group-title="● PERU",PE: America TV
+#EXTINF:-1 tvg-id="America TV" tvg-name="America TV" tvg-logo="https://ioiptv.com/logos/PE-America-TV1.png" group-title="● PERU",America TV
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1000
-#EXTINF:-1 tvg-id="PE: America TV HD iO" tvg-name="PE: America TV FHD iO" tvg-logo="https://ioiptv.com/logos/PE-America-TV2.png" group-title="● PERU",PE: America TV FHD iO
+#EXTINF:-1 tvg-id="America TV HD iO" tvg-name="America TV FHD iO" tvg-logo="https://ioiptv.com/logos/PE-America-TV2.png" group-title="latino",America TV FHD iO
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1001
-#EXTINF:-1 tvg-id="" tvg-name="PE: ATV HD" tvg-logo="" group-title="● PERU",PE: ATV HD
+#EXTINF:-1 tvg-id="" tvg-name="ATV HD" tvg-logo="" group-title="● PERU",ATV HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2096
-#EXTINF:-1 tvg-id="PE: ATV" tvg-name="PE: ATV" tvg-logo="https://ioiptv.com/logos/PE-ATV.png" group-title="● PERU",PE: ATV
+#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://ioiptv.com/logos/PE-ATV.png" group-title="● PERU",ATV
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/999
-#EXTINF:-1 tvg-id="PE: Canal N" tvg-name="PE: Canal N" tvg-logo="https://ioiptv.com/logos/PE-Canal-N.png" group-title="● PERU",PE: Canal N
+#EXTINF:-1 tvg-id="Canal N" tvg-name="Canal N" tvg-logo="https://ioiptv.com/logos/PE-Canal-N.png" group-title="● PERU",Canal N
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/998
-#EXTINF:-1 tvg-id="" tvg-name="PE: Capital TV" tvg-logo="https://ioiptv.com/logos/PE-Capital-TV.png" group-title="● PERU",PE: Capital TV
+#EXTINF:-1 tvg-id="" tvg-name="Capital TV" tvg-logo="https://ioiptv.com/logos/PE-Capital-TV.png" group-title="● PERU",Capital TV
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/997
-#EXTINF:-1 tvg-id="" tvg-name="PE: Digital TV Congreso" tvg-logo="" group-title="● PERU",PE: Digital TV Congreso
+#EXTINF:-1 tvg-id="" tvg-name="Digital TV Congreso" tvg-logo="" group-title="● PERU",Digital TV Congreso
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2596
-#EXTINF:-1 tvg-id="" tvg-name="PE: Digital TV Music" tvg-logo="" group-title="● PERU",PE: Digital TV Music
+#EXTINF:-1 tvg-id="" tvg-name="Digital TV Music" tvg-logo="" group-title="● PERU",Digital TV Music
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2595
-#EXTINF:-1 tvg-id="" tvg-name="PE: Digital TVPeru" tvg-logo="http://www.digitalperu.tv/assets/theme/ped/images/logo-wide.png" group-title="● PERU",PE: Digital TVPeru
+#EXTINF:-1 tvg-id="" tvg-name="Digital TVPeru" tvg-logo="http://www.digitalperu.tv/assets/theme/ped/images/logo-wide.png" group-title="● PERU",Digital TVPeru
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2594
-#EXTINF:-1 tvg-id="" tvg-name="PE: IPE" tvg-logo="https://ioiptv.com/logos/PE-IPE.png" group-title="● PERU",PE: IPE
+#EXTINF:-1 tvg-id="" tvg-name="IPE" tvg-logo="https://ioiptv.com/logos/PE-IPE.png" group-title="latina",IPE
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/996
-#EXTINF:-1 tvg-id="" tvg-name="PE: Latina HD." tvg-logo="" group-title="● PERU",PE: Latina HD.
+#EXTINF:-1 tvg-id="" tvg-name="Latina HD." tvg-logo="" group-title="latina",Latina HD.
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2859
-#EXTINF:-1 tvg-id="" tvg-name="PE: Latina HD" tvg-logo="" group-title="● PERU",PE: Latina HD
+#EXTINF:-1 tvg-id="" tvg-name="Latina HD" tvg-logo="" group-title="● PERU",Latina HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2095
-#EXTINF:-1 tvg-id="PE: Latina" tvg-name="PE: Latina" tvg-logo="https://ioiptv.com/logos/PE-Latina.png" group-title="● PERU",PE: Latina
+#EXTINF:-1 tvg-id="Latina" tvg-name="Latina" tvg-logo="https://ioiptv.com/logos/PE-Latina.png" group-title="latino",Latina
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/995
-#EXTINF:-1 tvg-id="PE: Movistar Plus" tvg-name="PE: Movistar Plus" tvg-logo="https://ioiptv.com/logos/PE-Movistar-Plus.png" group-title="● PERU",PE: Movistar Plus
+#EXTINF:-1 tvg-id="Movistar Plus" tvg-name="Movistar Plus" tvg-logo="https://ioiptv.com/logos/PE-Movistar-Plus.png" group-title="● PERU",Movistar Plus
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/994
-#EXTINF:-1 tvg-id="" tvg-name="PE: Movistar Series HD" tvg-logo="" group-title="● PERU",PE: Movistar Series HD
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Series HD" tvg-logo="" group-title="● PERU",Movistar Series HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/4117
-#EXTINF:-1 tvg-id="PE: Panamericana" tvg-name="PE: Panamericana" tvg-logo="https://ioiptv.com/logos/PE-Panamericana.png" group-title="● PERU",PE: Panamericana
+#EXTINF:-1 tvg-id="Panamericana" tvg-name="Panamericana" tvg-logo="https://ioiptv.com/logos/PE-Panamericana.png" group-title="latina",Panamericana
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/993
-#EXTINF:-1 tvg-id="PE: Panamericana HD" tvg-name="PE: Panamericana HD" tvg-logo="https://ioiptv.com/logos/PE-Panamericana.png" group-title="● PERU",PE: Panamericana HD
+#EXTINF:-1 tvg-id="Panamericana HD" tvg-name="Panamericana HD" tvg-logo="https://ioiptv.com/logos/PE-Panamericana.png" group-title="● PERU",Panamericana HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/992
-#EXTINF:-1 tvg-id="" tvg-name="PE: Peru Magico" tvg-logo="https://ioiptv.com/logos/PE-Peru-Magico.png" group-title="● PERU",PE: Peru Magico
+#EXTINF:-1 tvg-id="" tvg-name="Peru Magico" tvg-logo="https://ioiptv.com/logos/PE-Peru-Magico.png" group-title="● PERU",Peru Magico
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/991
-#EXTINF:-1 tvg-id="PE: TV Peru" tvg-name="PE: TV Peru" tvg-logo="https://ioiptv.com/logos/PE-TV-Peru.png" group-title="● PERU",PE: TV Peru
+#EXTINF:-1 tvg-id="TV Peru" tvg-name="TV Peru" tvg-logo="https://ioiptv.com/logos/PE-TV-Peru.png" group-title="latino",TV Peru
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/990
-#EXTINF:-1 tvg-id="PE: TV PERU 7.3" tvg-name="PE: TV PERU 7.3" tvg-logo="https://ioiptv.com/logos/PE-TV-Peru-7-3.png" group-title="● PERU",PE: TV PERU 7.3
+#EXTINF:-1 tvg-id="TV PERU 7.3" tvg-name="TV PERU 7.3" tvg-logo="https://ioiptv.com/logos/PE-TV-Peru-7-3.png" group-title="cochi",TV PERU 7.3
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/989
-#EXTINF:-1 tvg-id="" tvg-name="PE: Willax HD" tvg-logo="https://ioiptv.com/logos/PE-Willax.png" group-title="● PERU",PE: Willax HD
+#EXTINF:-1 tvg-id="" tvg-name="Willax HD" tvg-logo="https://ioiptv.com/logos/PE-Willax.png" group-title="● PERU",Willax HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/988
-#EXTINF:-1 tvg-id="" tvg-name="URU: Canal 10" tvg-logo="" group-title="> URUGUAY",URU: Canal 10
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10" tvg-logo="" group-title="latino"> URUGUAY",Canal 10
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2650
-#EXTINF:-1 tvg-id="" tvg-name="URU: Monte Carlo HD" tvg-logo="" group-title="> URUGUAY",URU: Monte Carlo HD
+#EXTINF:-1 tvg-id="" tvg-name="Monte Carlo HD" tvg-logo="" group-title="latino",Monte Carlo HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2652
-#EXTINF:-1 tvg-id="" tvg-name="URU: Montecarlo" tvg-logo="" group-title="> URUGUAY",URU: Montecarlo
+#EXTINF:-1 tvg-id="" tvg-name="Montecarlo" tvg-logo="" group-title="> URUGUAY",Montecarlo
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/860
-#EXTINF:-1 tvg-id="" tvg-name="URU: Tele Doce HD" tvg-logo="" group-title="> URUGUAY",URU: Tele Doce HD
+#EXTINF:-1 tvg-id="" tvg-name="Tele Doce HD" tvg-logo="" group-title="latino",Tele Doce HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2649
-#EXTINF:-1 tvg-id="" tvg-name="URU: TeleDoce HD" tvg-logo="" group-title="● VARIOS CANALES",URU: TeleDoce HD
-http://io.xtrego.com:8080/macpanda/WDKosjppLg/858
+#EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="https://ioiptv.com/logos/Glitz.png" group-title="latino",Glitz
+http://io.xtrego.com:8080/macpanda/WDKosjppLg/960
