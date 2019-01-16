@@ -113,7 +113,7 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/4837
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/358
 #EXTINF:-1 tvg-id="Discovery Home & Health MX FHD" tvg-name="Discovery Home & Health MX FHD" tvg-logo="https://ioiptv.com/logos/Discovery_Home_&_Health_HD.png" group-title="latino",Discovery Home & Health MX FHD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/345
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="• ENTRETENIMIENTO",Telemundo
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="latino",Telemundo
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/655
 #EXTINF:-1 tvg-id="" tvg-name="Canal Claro HD *" tvg-logo="http://s3-us-west-2.amazonaws.com/puntoapunto.com.ar/wp-content/uploads/2018/06/29105354/Claro-logo-logotype.png" group-title="latino",Canal Claro HD *
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/1952
@@ -462,8 +462,6 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/879
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/877
 #EXTINF:-1 tvg-id="" tvg-name="AR: Tv Publica" tvg-logo="" group-title="● ARGENTINA",AR: Tv Publica
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/878
-#EXTINF:-1 tvg-id="" tvg-name="==● ▄ ★ CHILE ★ ▄ ●==" tvg-logo="" group-title="",==● ▄ ★ CHILE ★ ▄ ●==
-http://io.xtrego.com:8080/macpanda/WDKosjppLg/915
 #EXTINF:-1 tvg-id="" tvg-name="EVENTO chile" tvg-logo="" group-title="● CHILE",EVENTO chile
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/3479
 #EXTINF:-1 tvg-id="" tvg-name="CL: 13c" tvg-logo="" group-title="● CHILE",CL: 13c
@@ -522,8 +520,6 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/2090
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/893
 #EXTINF:-1 tvg-id="" tvg-name="CL: Canal Costa tv" tvg-logo="" group-title="● CHILE",CL: Canal Costa tv
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/5649
-#EXTINF:-1 tvg-id="" tvg-name="==● ▄ ★ COLOMBIA ★ ▄ ●==" tvg-logo="" group-title="",==● ▄ ★ COLOMBIA ★ ▄ ●==
-http://io.xtrego.com:8080/macpanda/WDKosjppLg/930
 #EXTINF:-1 tvg-id="" tvg-name="CO: Canal Antiestres" tvg-logo="" group-title="● COLOMBIA",CO: Canal Antiestres
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/929
 #EXTINF:-1 tvg-id="" tvg-name="CO: Canal Uno" tvg-logo="" group-title="● COLOMBIA",CO: Canal Uno
@@ -584,8 +580,6 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/933
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/932
 #EXTINF:-1 tvg-id="" tvg-name="CR: TV SUR Canal 9" tvg-logo="" group-title="● COSTA RICA",CR: TV SUR Canal 9
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/931
-#EXTINF:-1 tvg-id="" tvg-name="==● ▄ ★ ECUADOR ★ ▄ ●==" tvg-logo="" group-title="",==● ▄ ★ ECUADOR ★ ▄ ●==
-http://io.xtrego.com:8080/macpanda/WDKosjppLg/954
 #EXTINF:-1 tvg-id="" tvg-name="EC: Canal UNO" tvg-logo="" group-title="● ECUADOR",EC: Canal UNO
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/953
 #EXTINF:-1 tvg-id="" tvg-name="EC: Canal Uno op2" tvg-logo="" group-title="● ECUADOR",EC: Canal Uno op2
@@ -628,8 +622,6 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/942
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/945
 #EXTINF:-1 tvg-id="" tvg-name="EC: UCSG TELEVISION" tvg-logo="" group-title="● ECUADOR",EC: UCSG TELEVISION
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/4112
-#EXTINF:-1 tvg-id="" tvg-name="==● ▄ ★ MEXICO ★ ▄ ●==" tvg-logo="" group-title="",==● ▄ ★ MEXICO ★ ▄ ●==
-http://io.xtrego.com:8080/macpanda/WDKosjppLg/977
 #EXTINF:-1 tvg-id="ADN40" tvg-name="ADN40" tvg-logo="https://ioiptv.com/logos/ADN-40.png" group-title="● MEXICO",ADN40
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/976
 #EXTINF:-1 tvg-id="AZ Cinema" tvg-name="AZ Cinema" tvg-logo="https://ioiptv.com/logos/Az-Cinema.png" group-title="● MEXICO",AZ Cinema
@@ -696,8 +688,6 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/4102
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/4101
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Tainment" tvg-logo="" group-title="● MEXICO",Ultra Tainment
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/4100
-#EXTINF:-1 tvg-id="" tvg-name="==● ▄ ★ PARAGUAY ★ ▄ ●==" tvg-logo="" group-title="",==● ▄ ★ PARAGUAY ★ ▄ ●==
-http://io.xtrego.com:8080/macpanda/WDKosjppLg/987
 #EXTINF:-1 tvg-id="La Tele Paraguay" tvg-name="La Tele Paraguay" tvg-logo="https://ioiptv.com/logos/PY-La-Tele.png" group-title="● PARAGUAY",La Tele Paraguay
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/986
 #EXTINF:-1 tvg-id="Paraguay TV" tvg-name="Paraguay TV" tvg-logo="https://ioiptv.com/logos/PY-Paraguay-TV.png" group-title="● PARAGUAY",Paraguay TV
@@ -716,8 +706,6 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/980
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/979
 #EXTINF:-1 tvg-id="Unicanal Paraguay" tvg-name="Unicanal Paraguay" tvg-logo="https://ioiptv.com/logos/PY-Unicanal.png" group-title="● PARAGUAY",Unicanal Paraguay
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/978
-#EXTINF:-1 tvg-id="" tvg-name="==● ▄ ★ PERU ★ ▄ ●==" tvg-logo="" group-title="",==● ▄ ★ PERU ★ ▄ ●==
-http://io.xtrego.com:8080/macpanda/WDKosjppLg/1002
 #EXTINF:-1 tvg-id="" tvg-name="PE: America HD" tvg-logo="" group-title="● PERU",PE: America HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2094
 #EXTINF:-1 tvg-id="PE: America TV" tvg-name="PE: America TV" tvg-logo="https://ioiptv.com/logos/PE-America-TV1.png" group-title="● PERU",PE: America TV
@@ -762,8 +750,6 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/990
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/989
 #EXTINF:-1 tvg-id="" tvg-name="PE: Willax HD" tvg-logo="https://ioiptv.com/logos/PE-Willax.png" group-title="● PERU",PE: Willax HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/988
-#EXTINF:-1 tvg-id="" tvg-name="●▄ ★ URUGUAY ★ ▄●" tvg-logo="" group-title="",●▄ ★ URUGUAY ★ ▄●
-http://io.xtrego.com:8080/macpanda/WDKosjppLg/2662
 #EXTINF:-1 tvg-id="" tvg-name="URU: Canal 10" tvg-logo="" group-title="> URUGUAY",URU: Canal 10
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2650
 #EXTINF:-1 tvg-id="" tvg-name="URU: Monte Carlo HD" tvg-logo="" group-title="> URUGUAY",URU: Monte Carlo HD
