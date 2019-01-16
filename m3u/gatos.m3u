@@ -634,9 +634,9 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/964
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/963
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="https://ioiptv.com/logos/MX-Distrito-Comedia.png" group-title="● MEXICO",Distrito Comedia
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/962
-#EXTINF:-1 tvg-id="GalaVision" tvg-name="GalaVision" tvg-logo="https://ioiptv.com/logos/MX-GalaVision.png" group-title="Latino",GalaVision
+#EXTINF:-1 tvg-id="GalaVision" tvg-name="GalaVision" tvg-logo="https://ioiptv.com/logos/MX-GalaVision.png" group-title="latino",GalaVision
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/961
-#EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="https://ioiptv.com/logos/Glitz.png" group-title="Latino",Glitz
+#EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="https://ioiptv.com/logos/Glitz.png" group-title="latino",Glitz
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/960
 #EXTINF:-1 tvg-id="HOLA TV" tvg-name="Hola TV" tvg-logo="https://ioiptv.com/logos/HolaTv.png" group-title="latino",Hola TV
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/959
@@ -646,7 +646,7 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/658
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/958
 #EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-logo="https://ioiptv.com/logos/Milenio-TV.png" group-title="● MEXICO",Milenio TV
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/957
-#EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" tvg-logo="https://ioiptv.com/logos/Unicable.png" group-title="Latino",Unicable
+#EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" tvg-logo="https://ioiptv.com/logos/Unicable.png" group-title="latino",Unicable
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/955
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Cine" tvg-logo="" group-title="Cine",Ultra Cine
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/4110
@@ -660,7 +660,7 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/4106
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/4105
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Kidz" tvg-logo="" group-title="cochi",Ultra Kidz
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/4104
-#EXTINF:-1 tvg-id="" tvg-name="Ultra Luna" tvg-logo="" group-title="Latino",Ultra Luna
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Luna" tvg-logo="" group-title="latino",Ultra Luna
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/4103
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Macho" tvg-logo="" group-title="Cine",Ultra Macho
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/4102
