@@ -706,9 +706,9 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/2596
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2595
 #EXTINF:-1 tvg-id="" tvg-name="Digital TVPeru" tvg-logo="http://www.digitalperu.tv/assets/theme/ped/images/logo-wide.png" group-title="● PERU",Digital TVPeru
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2594
-#EXTINF:-1 tvg-id="" tvg-name="IPE" tvg-logo="https://ioiptv.com/logos/PE-IPE.png" group-title="latina",IPE
+#EXTINF:-1 tvg-id="" tvg-name="IPE" tvg-logo="https://ioiptv.com/logos/PE-IPE.png" group-title="latino",IPE
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/996
-#EXTINF:-1 tvg-id="" tvg-name="Latina HD." tvg-logo="" group-title="latina",Latina HD.
+#EXTINF:-1 tvg-id="" tvg-name="Latina HD." tvg-logo="" group-title="latino",Latina HD.
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2859
 #EXTINF:-1 tvg-id="" tvg-name="Latina HD" tvg-logo="" group-title="● PERU",Latina HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/2095
@@ -718,7 +718,7 @@ http://io.xtrego.com:8080/macpanda/WDKosjppLg/995
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/994
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Series HD" tvg-logo="" group-title="● PERU",Movistar Series HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/4117
-#EXTINF:-1 tvg-id="Panamericana" tvg-name="Panamericana" tvg-logo="https://ioiptv.com/logos/PE-Panamericana.png" group-title="latina",Panamericana
+#EXTINF:-1 tvg-id="Panamericana" tvg-name="Panamericana" tvg-logo="https://ioiptv.com/logos/PE-Panamericana.png" group-title="latino",Panamericana
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/993
 #EXTINF:-1 tvg-id="Panamericana HD" tvg-name="Panamericana HD" tvg-logo="https://ioiptv.com/logos/PE-Panamericana.png" group-title="● PERU",Panamericana HD
 http://io.xtrego.com:8080/macpanda/WDKosjppLg/992
